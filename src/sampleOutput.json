@@ -1,0 +1,209 @@
+{
+  "status": "ok",
+  "totalResults": 67,
+  articles = [
+    {
+      "source": { "id": null, "name": "CoinDesk" },
+      "author": "Omkar Godbole",
+      "title": "Bitcoin, Ether Hold Steady After Genesis' Bankruptcy; Crypto Traders Say Bad News Was Priced In - CoinDesk",
+      "description": "The path of least resistance for crypto is on the higher side, one observer said, drawing attention to bitcoin's tendency to carve out double-digit gains during the Chinese New Year holidays.",
+      "url": "https://www.coindesk.com/markets/2023/01/20/bad-news-is-priced-in-crypto-traders-say-as-btc-eth-hold-steady-after-genesis-bankruptcy-filing/",
+      "urlToImage": "https://www.coindesk.com/resizer/vmdwdrZ_Kyc4gIsXpUlDD82yv7g=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/NS72IX2RGJBTVHXWOT7WEIFMZM.jpg",
+      "publishedAt": "2023-01-20T16:28:00Z",
+      "content": "\"It is incredible to see how bitcoin has reacted to the Genesis Bankruptcy news,\" one crypto observer tweeted Monday, marveling at the top cryptocurrency's muted reaction to one of the largest instit… [+3188 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Barron's" },
+      "author": "Al Root",
+      "title": "Tesla Price Cuts a 'Huge Success.' Market Share Grows in China. - Barron's",
+      "description": "Wedbush analyst Dan Ives conducted a survey of electric-vehicle buyers in China. Tesla investors will like what he found.",
+      "url": "https://www.barrons.com/articles/tesla-price-cut-success-sales-deliveries-china-elon-musk-51674221091",
+      "urlToImage": "https://images.barrons.com/im-435787/social",
+      "publishedAt": "2023-01-20T16:28:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "T-Mobile data breach exposes about 37 mln accounts - Reuters",
+      "description": "U.S. wireless carrier T-Mobile <a href=\"https://www.reuters.com/companies/TMUS.O\" target=\"_blank\">(TMUS.O)</a> said on Thursday it was investigating a data breach that may have exposed 37 million postpaid and prepaid accounts, and hinted at incurring signific…",
+      "url": "https://www.reuters.com/technology/t-mobile-says-investigating-data-breach-affecting-37-mln-accounts-2023-01-19/",
+      "urlToImage": "https://www.reuters.com/resizer/zWxcfmS7Wzih2W-uXrbG_yL6J9g=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/AIKKL5FFHZJLXBUJ4O676CYOUI.jpg",
+      "publishedAt": "2023-01-20T16:21:00Z",
+      "content": "Jan 20 (Reuters) - U.S. wireless carrier T-Mobile (TMUS.O) said on Thursday it was investigating a data breach that may have exposed 37 million postpaid and prepaid accounts, and hinted at incurring … [+1807 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Lillian Rizzo, Alex Sherman",
+      "title": "Fanatics is in talks to acquire BetParx sportsbook - CNBC",
+      "description": "Fanatics, the sports merchandising company with a $31 billion valuation, is in talks to buy sportsbook BetParx, sources said.",
+      "url": "https://www.cnbc.com/2023/01/20/fanatics-in-talks-to-acquire-betparx-sportsbook.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107181804-1674228257443-gettyimages-1245759358-Michael_Rubin.jpeg?v=1674230855&w=1920&h=1080",
+      "publishedAt": "2023-01-20T16:07:35Z",
+      "content": "Fanatics is in discussions to acquire the BetParx sportsbook, as the sports merchandising company looks to take a bigger position in sports betting, according to people familiar with the matter.\r\nA d… [+2844 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Diana Olick",
+      "title": "Existing home sales fell for the 11th consecutive month in December, hitting the slowest pace since November 2010 - CNBC",
+      "description": "Home sales have fallen for 11 consecutive months as mortgage rates weigh on the market.",
+      "url": "https://www.cnbc.com/2023/01/20/existing-home-sales-drop-in-december-to-slowest-pace-since-2010.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107163390-1670514287601-gettyimages-1245436231-US_HOUSING_MARKET.jpeg?v=1674226801&w=1920&h=1080",
+      "publishedAt": "2023-01-20T15:00:01Z",
+      "content": "Sales of previously owned homes dropped 1.5% in December from the previous month, according to the National Association of Realtors.\r\nSales ended the year at a seasonally adjusted, annualized pace of… [+3248 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNET" },
+      "author": "Joan E. Solsman",
+      "title": "With Netflix Member Growth Zipping Again, Co-CEO Reed Hastings Steps Down - CNET",
+      "description": "Netflix's founder will stay on as executive chairman, as the company continues its odyssey into advertising and a password-sharing crackdown.",
+      "url": "https://www.cnet.com/tech/home-entertainment/with-netflix-member-growth-zipping-again-co-ceo-reed-hastings-steps-down/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/4184c874cdeb479efcfd8a7566dfbc6e572cfa77/hub/2022/04/22/53531d86-047d-4d7f-87bc-7d81d2b169b0/netflix-logo-2022-652.jpg?auto=webp&fit=crop&height=630&width=1200",
+      "publishedAt": "2023-01-20T15:00:00Z",
+      "content": "Netflix's founder and its chief executive for 25 years, Reed Hastings, has stepped down from his co-CEO role to serve instead as the executive chairman. Current co-CEO Ted Sarandos will continue to l… [+4853 chars]"
+    },
+    {
+      "source": { "id": "financial-times", "name": "Financial Times" },
+      "author": "Olaf Storbeck, Stephen Morris, Arash Massoudi",
+      "title": "Deutsche Bank slashes investment banker bonuses but rewards traders - Financial Times",
+      "description": "Dealmaker pool to fall by 40% in line with Goldman but a bigger drop than most rivals",
+      "url": "https://www.ft.com/content/34282ee2-9a7f-41c2-8b74-b97c4d4f752e",
+      "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F72d25881-8dd6-4fc8-94c5-2031b81fcbab.jpg?source=next-opengraph&fit=scale-down&width=900",
+      "publishedAt": "2023-01-20T14:25:26Z",
+      "content": "Deutsche Bank is slashing the bonus pool for its investment bankers by 40 per cent, one of the most severe cuts in the industry, while increasing the payouts for traders.\r\nPeople familiar with the ma… [+2338 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Bob Pisani",
+      "title": "Tech stocks are back: The market now is starting to look like it did in 2021 - CNBC",
+      "description": "The leadership this year looks like the inverse of 2022 and a lot like 2021.",
+      "url": "https://www.cnbc.com/2023/01/20/tech-stocks-are-back-the-market-now-is-starting-to-look-like-it-did-in-2021.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107181114-1674142187040-gettyimages-1457697665-032a4498_36947c98-3185-471c-a38c-cf21aa87c0b4.jpeg?v=1674223001&w=1920&h=1080",
+      "publishedAt": "2023-01-20T13:56:41Z",
+      "content": null
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "Fed to deliver two 25-basis-point hikes in Q1, followed by long pause - Reuters",
+      "description": "The U.S. Federal Reserve will end its tightening cycle after a 25-basis-point hike at each of its next two policy meetings and then likely hold interest rates steady for at least the rest of the year, according to most economists in a Reuters poll.",
+      "url": "https://www.reuters.com/markets/rates-bonds/fed-deliver-two-25-basis-point-hikes-q1-followed-by-long-pause-2023-01-20/",
+      "urlToImage": "https://www.reuters.com/resizer/1CcYfVZpbYHor1pD9v4u5VrxhT4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YJZ32W2H2RPWLCR4ZM53ZT3Q2E.jpg",
+      "publishedAt": "2023-01-20T13:54:00Z",
+      "content": "BENGALURU, Jan 20 (Reuters) - The U.S. Federal Reserve will end its tightening cycle after a 25-basis-point hike at each of its next two policy meetings and then likely hold interest rates steady for… [+4077 chars]"
+    },
+    {
+      "source": { "id": "axios", "name": "Axios" },
+      "author": "Matt Phillips",
+      "title": "Sad days are here again on Wall Street - Axios",
+      "description": "Rosy data has failed to quell concerns about a recession on Wall Street.",
+      "url": "https://www.axios.com/2023/01/20/bad-vibes-break-out-on-wall-street",
+      "urlToImage": "https://images.axios.com/QyzH48Iiohuac3l_3J6qDersi3c=/378x1070:5708x4068/1366x768/2023/01/19/1674147803446.jpg",
+      "publishedAt": "2023-01-20T13:40:46Z",
+      "content": "After bursting out of the gates in early 2023, the market has lost its mojo this week. \r\nDriving the news: Stocks slumped for a third straight session Thursday, as the S&amp;P declined by 0.8%. That … [+1642 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Paul Berger, Sarah Nassauer",
+      "title": "Wayfair Is Laying Off 1,750 Workers - WSJ - The Wall Street Journal",
+      "description": "Online furniture retailer has struggled with shrinking sales",
+      "url": "https://www.wsj.com/articles/wayfair-is-preparing-to-lay-off-more-than-1-000-workers-11674161122",
+      "urlToImage": "https://images.wsj.net/im-704659/social",
+      "publishedAt": "2023-01-20T13:18:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": "Dani Romero",
+      "title": "Stock market news live updates: Stock futures mixed as Wall Street looks to rebound - Yahoo Finance",
+      "description": "U.S. stocks wavered at the open Friday, suggesting that indexes could wrap up the week upbeat as technology stocks head for modest gains.",
+      "url": "https://finance.yahoo.com/news/stock-market-news-live-updates-january-20-2023-123518063.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/KpuOhpSUfe1f7enBoSltpQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-01/ecf732f0-985c-11ed-bfff-9f65ddf63ebd",
+      "publishedAt": "2023-01-20T12:35:18Z",
+      "content": "U.S. stocks wavered at the open Friday, with some signs suggesting that indexes could wrap up the week on an upbeat note as technology stocks head for modest gains.\r\nThe S&amp;P 500 (^GSPC) added 0.2… [+3662 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Elliot Smith",
+      "title": "The 'greatest tragedy' would be if central banks don't finish the job on inflation, Larry Summers says - CNBC",
+      "description": "Central banks not finishing what they have started on inflation would be the \"greatest tragedy\" for the global economy, according to former U.S. Treasury Secretary Larry Summers.",
+      "url": "https://www.cnbc.com/2023/01/20/summers-greatest-tragedy-would-be-if-central-banks-dont-finish-the-job-on-inflation.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/104225169-_95A4591.JPG?v=1674217699&w=1920&h=1080",
+      "publishedAt": "2023-01-20T12:28:19Z",
+      "content": "Central banks not finishing what they have started in bringing inflation back to Earth would be the \"greatest tragedy\" for the global economy, according to former U.S. Treasury Secretary Larry Summer… [+2546 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Coingape" },
+      "author": "Varinder Singh",
+      "title": "Shiba Inu Developer Drops Hint On Shibarium Beta Launch Date - CoinGape",
+      "description": "Shiba Inu's most anticipated Shibarium Beta launch to likely happen on February 14 Valentine's Day. SHIB price jumps 3% and BONE 8%.",
+      "url": "https://coingape.com/breaking-shiba-inu-shib-developer-drops-hint-on-shibarium-beta-launch-date/",
+      "urlToImage": "https://cdn.coingape.com/wp-content/uploads/2022/03/30153347/shiba2.jpg",
+      "publishedAt": "2023-01-20T12:21:47Z",
+      "content": "Shiba Inu's most anticipated Shibarium Beta launch to likely happen on February 14 Valentine's Day. SHIB price jumps 3% and BONE 8%. \r\nThe Shiba Inu community actively awaits the Shibarium Layer-2 bl… [+2089 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Kate Duffy",
+      "title": "Elizabeth Holmes still shows 'no remorse to her victims' and continues to live on an estate costing $13,000 a month, prosecutors say - Yahoo Finance",
+      "description": "Elizabeth Holmes' estate costs $13,000 a month to maintain, according to her cash flow statements, prosecutors said in a court filing.",
+      "url": "https://www.businessinsider.com/elizabeth-holmes-theranos-trial-prison-estate-prosecutors-appeal-conviction-2023-1",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/YOxxhmvvbXLfAWL9xu.8WA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/business_insider_articles_888/16e2f9183be6d4de3702053693f074be",
+      "publishedAt": "2023-01-20T12:21:23Z",
+      "content": "Elizabeth Holmes lives on an expensive estate while appealing her conviction, prosecutors said in a court filing.CNBC/Getty Images\r\n<ul><li>Elizabeth Holmes lives on an expensive estate, prosecutors … [+2041 chars]"
+    },
+    {
+      "source": { "id": null, "name": "MarketWatch" },
+      "author": "Barbara Kollmeyer",
+      "title": "'Overbought and overpriced': This investor sees a bubble popping for one popular group of stocks. - MarketWatch",
+      "description": "Critical information for the U.S. trading day",
+      "url": "https://www.marketwatch.com/story/overbought-and-overpriced-why-this-investor-sees-a-bubble-popping-for-this-popular-group-of-stocks-11674217266",
+      "urlToImage": "https://images.mktw.net/im-707146/social",
+      "publishedAt": "2023-01-20T12:21:00Z",
+      "content": "Investors wouldnt be blamed for sizing up the first losing week in three for the S&amp;P 500 and decide to start the weekend early. Stocks are on the rise in early action, but that wont sway five-day… [+8016 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Endpoints News" },
+      "author": "Kyle LaHucik",
+      "title": "FDA squashes accelerated hopes for Eli Lilly's Alzheimer's drug as agency asks for more data - Endpoints News",
+      "description": "The FDA flashed a red light on Eli Lilly’s investigational Alzheimer’s drug donanemab, spurning hopes of two new medications for the disease this month. The Big Pharma put out word after the markets closed Thursday saying the US regulator denied the accelerat…",
+      "url": "https://endpts.com/fda-rejects-eli-lilly-alzheimers-drug-donanemab-for-accelerated-approval/",
+      "urlToImage": "https://endpts.com/wp-content/uploads/2023/01/Eli-Lilly-shutterstock-social.jpg",
+      "publishedAt": "2023-01-20T12:12:46Z",
+      "content": "Endpoints founder John Carroll sat down with ARCH managing director Robert Nelsen during JP Morgan to talk about innovation, what’s getting funded and what’s ahead in 2023. This transcript has been e… [+1133 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Grace Dean",
+      "title": "Sam Bankman-Fried had a 'security incident' when 3 men drove into a metal barricade outside his parents' multimillion Bay Area home, his lawyer said - Yahoo Finance",
+      "description": "Filings by Sam Bankman-Fried's lawyers detail the \"harassment and threats\" the former crypto mogul and his parents have faced since FTX's collapse.",
+      "url": "https://www.businessinsider.com/sam-bankman-fried-ftx-security-incident-parents-california-home-bail-2023-1",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/pIH2jpLzqvPswUBChCEDHg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/business_insider_articles_888/912bd3ed929605ce5ee3516070d9e8c3",
+      "publishedAt": "2023-01-20T11:59:44Z",
+      "content": "Filings by Sam Bankman-Fried's lawyers detail the \"harassment and threats\" the former crypto mogul and his parents have faced since FTX's collapse.om Williams/CQ-Roll Call Inc via Getty Images\r\n<ul><… [+3285 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Julia Buckley, CNN",
+      "title": "This small airplane could hold the key to zero-carbon flying - CNN",
+      "description": "Low-carbon flying has taken another step forward with ZeroAvia's successful test flight of a 19-seater airplane run entirely on a hydrogen-electric engine.",
+      "url": "https://www.cnn.com/travel/article/zeroavia-hydrogen-test-flight-climate/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/230120114133-zeroavia-tz-super-tease.jpg",
+      "publishedAt": "2023-01-20T11:42:00Z",
+      "content": "Editor's Note Sign up for Unlocking the World, CNN Travel's weekly newsletter. Get news about destinations opening, inspiration for future adventures, plus the latest in aviation, food and drink, whe… [+6272 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Ryan Browne",
+      "title": "Google to lay off 12,000 people — read the memo CEO Sundar Pichai sent to staff - CNBC",
+      "description": "Sundar Pichai, Google's CEO, said in an email sent to the company's staff Friday that the firm will lay off 12,000 employees.",
+      "url": "https://www.cnbc.com/2023/01/20/google-to-lay-off-12000-people-memo-from-ceo-sundar-pichai-says.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107073775-1654806480914-gettyimages-1401984594-_m013305_b5de3d64-4356-4098-a909-aa35a9b6a446.jpeg?v=1674213949&w=1920&h=1080",
+      "publishedAt": "2023-01-20T11:25:49Z",
+      "content": "Google said Friday it will lay off 12,000 people from its workforce, adding to the slew of major U.S. tech companies cutting jobs amid fears of an oncoming recession.\r\nSundar Pichai, Google's CEO, sa… [+5181 chars]"
+    }
+  ]
+}
